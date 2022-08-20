@@ -1,0 +1,2 @@
+# Black-Squad
+. A young unlicensed driver died in 44.1% of the crashes. Unlicensed drivers are generally unknown to authorities until they crash or commit a traffic violation, which results in a suspected large number of drivers with unknown risks and driving practices. So we came up with a solution called smart RFID license card reader which inspects whether the driver is an authorized license holder and provide access to start the engine only when they have license with them. 
